@@ -1,2 +1,2 @@
-# latin-macos-keyboard-layouts
+# Latin Keyboard Layouts (macOS)
 Custom macOS keyboard layouts for the Latin Language.
